@@ -16,6 +16,6 @@ Server has been deployed under Heroku.
 
 ## Technologies
 Project is created with:
-* npm version: 12.3
+* Socket.io version: 4.x
 * 
 *
